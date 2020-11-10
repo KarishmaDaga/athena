@@ -4,42 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+Hey! I'm Karishma, a software engineer with an interest in all sorts of technology, particularly in open-source, Python, and real-time collaboration. I've worked on [open-source machine learning platforms](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow#train-with-mlflow-projects), user-experience, and commerce tools at Microsoft. 
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Now, I'm building an open-source library for spinning up propositional logic encodings on the fly under the supervision of [Professor Christian Muise](http://haz.ca/) at the [Mu Lab](http://mulab.ai/) for my senior year project.
 
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
+In my spare time, you can find me curating spotify playlists, reading, eating out with friends, listening to history podcasts, and exploring cities on foot.
 
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+Always down to chat! Feel free to reach me at [karishdaga@gmail.com](mailto:karishdaga@gmail.com) or on [Twitter](https://twitter.com/karishmadagaa).

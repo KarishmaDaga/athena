@@ -2,18 +2,22 @@
 
 // Code formatting
 pre {
-    border-left: $spacer-1 solid $color-border;
+    border-left: $spacer-1;
     margin: $spacer-3 0;
     padding-left: 16px;
     width: (9 / 12 * 100%); // matches col-9
     overflow-x: auto;
+    background-color: #eef;
+    border-radius: 8px;
 }
 
 code {
     color: $color-code;
     font-size: $body-font-size;
-    padding: 1px 4px;
-}
+    padding: 2px 5px;
+    background-color: #eef;
+    border-radius: 4px;
+  }
 
 
 .prose {
