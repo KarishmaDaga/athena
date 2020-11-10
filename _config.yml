@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Karishma Daga
 description: A software engineer with an interest in all sorts of technology. Living in Toronto ⁶𓅓, and currently staying inside.
-# baseurl: "/athena" # the subpath of your site, e.g. /blog
-url: "http://karishmadaga.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://karishmadaga.github.io" # the base hostname & protocol for your site
 github_repo: karishmadaga.github.io # the GitHub repo name for your project
 github_username: KarishmaDaga
 
