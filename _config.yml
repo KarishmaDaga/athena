@@ -14,7 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Karishma Daga
-description: A software engineer with an interest in all sorts of technology. Living in Toronto ⁶𓅓, and currently staying inside.
+description: A software engineer with an interest in all sorts of technology.
+Living in Toronto ⁶𓅓, and currently staying inside.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://karishmadaga.ca" # the base hostname & protocol for your site
 github_repo: karishmadaga.github.io # the GitHub repo name for your project
