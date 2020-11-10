@@ -20,13 +20,9 @@ url: "https://karishmadaga.com" # the base hostname & protocol for your site
 github_repo: karishmadaga.github.io # the GitHub repo name for your project
 github_username: KarishmaDaga
 
-# Optional social link, you can choose from the following options:
-# twitter (default), instagram, medium, or dribbble
 social_link: twitter
 social_username: karishmadagaa
 
-# Set theme color here
-# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 theme_color: light
 
 # Build settings
