@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hey! I'm Karishma, a software engineer with an interest in all sorts of technology, particularly in open-source, Python, and real-time collaboration. I've worked on [open-source machine learning platforms](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow#train-with-mlflow-projects), user-experience, and commerce tools at Microsoft. 
+Hey! I'm Karishma, a software engineer with an interest in open-source, Python, real-time collaboration, and history. I've worked on [open-source machine learning platforms](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-use-mlflow#train-with-mlflow-projects), user-experience, and commerce tools at Microsoft. 
 
 Now, I'm building an open-source library for spinning up propositional logic encodings on the fly under the supervision of [Professor Christian Muise](http://haz.ca/) at the [Mu Lab](http://mulab.ai/) for my senior year project.
 
