@@ -1,7 +1,7 @@
 ---
 layout: category-post
-title: "A primer on python decorators"
-date:   2020-09-25
+title: "Asterisks in Python"
+date:   2020-11-11
 categories: python
 ---
 
