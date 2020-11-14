@@ -2,7 +2,7 @@
 layout: category-post
 title: "A primer on python decorators"
 date:   2020-09-25
-categories: writing
+categories: python
 ---
 
 ## the TL;DR
