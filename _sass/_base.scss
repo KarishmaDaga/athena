@@ -4,7 +4,8 @@
 
 * {
  box-sizing: border-box !important;
- margin: 0; }
+ margin: 0;
+ padding: 0.2rem;}
 
 input,
 select,
@@ -20,7 +21,6 @@ body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
-    padding: 0;
 }
 
 
@@ -49,7 +49,7 @@ h1, .h1 { font-size: $h1-size; }
 h2, .h2 { font-size: $h2-size; }
 h3, .h3 { font-size: $h3-size; }
 h4, .h4 { font-size: $h4-size; font-family: 'Courier New', Courier, monospace;}
-h5, .h5 { font-size: $h5-size; }
+h5, .h5 { font-size: $h5-size; font-family: 'Courier New', Courier, monospace;}
 h6, .h6 { font-size: $h6-size; text-transform: uppercase; letter-spacing: 0.02em; }
 
 a {
@@ -62,5 +62,5 @@ a {
 a:hover {
   color: $color-primary-link;
   text-decoration: none;
-  border-bottom: 1px dotted;
+  border-bottom: 1px dotted ;
 }
